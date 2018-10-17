@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Universo para niños</string>
+    <string name="descripcion">El Sistema Solar está formado por diversos componentes,\n entre los que se encuentran el Sol, ocho planetas, numerosos satélites y aproximadamente 100 mil asteroides.
+Desde la antigüedad, la humanidad se
+interesó\n por los cuerpos más brillantes y
+destacados del cielo. \n\nLa curiosidad surgió al
+notar que algunas luces parecían estar casi fijas
+y que otras\n, al moverse, pasaban una y otra
+vez por el mismo punto,\n repitiendo su recorrido
+en determinados periodos.</string>
+    <string name="nombre_descripcion">DESCRIPCIÓN</string>
+</resources>
